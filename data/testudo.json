@@ -6,6 +6,11 @@
   "alternateName": "Digitale computer",
   "identifier": "2002.0575.EWI",
   "dateCreated": "1944-1952",
+  "whichProp?": {
+   "id": "http://vocab.getty.edu/aat/300024521",
+   "type": "gvp:Concept",
+   "_label": "computers"
+  },
   "creator": [
     {
       "@type": "Organization",
