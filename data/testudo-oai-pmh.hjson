@@ -1,4 +1,6 @@
   {
+    ## Relevant section of the current OAI-PMH XML response of an object in Collective Access, converted to JSON
+    ## Request: https://cms.collectiveaccess.tudelft.nl/service.php/OAI/dc_obj_erfgoed/request?verb=GetRecord&metadataPrefix=qdc&identifier=oai:oai.tudelft:5268
     "header": [
       {
         "identifier": [
