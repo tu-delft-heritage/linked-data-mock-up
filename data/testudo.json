@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+  "@id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/f78a108e-f5dc-4165-a1d2-33b49f524597.json",
+  "name": "TESTUDO computer door W.L. van der Poel",
+  "alternateName": "Digitale computer",
+  "identifier": "2002.0575.EWI",
+  "dateCreated": "1944-1952",
+  "creator": [
+    {
+      "@type": "Organization",
+      "name": "TU Delft faculteit TNW"
+    },
+    {
+      "@type": "Person",
+      "name": "Willem Louis van der Poel"
+    }
+  ],
+  "description": "De TESTUDO (Latijn: schildpad) is een geavanceerde mechanische rekenmachine... (volledige beschrijving ingekort hier)",
+  "material": ["hout", "metaal", "rubber"],
+  "size": "400,0 (h) * 5.000,0 (b) * 720,0 (d)",
+  "==provenance==": {
+    "Van Heel, Abraham Cornelis Sebastiaan"
+  },
+  "citation": "TH mededelingen, november 1957, jaargang 5 nr. 2, p.35",
+  "==isRelatedTo==": {
+    "@type": "Photograph",
+    "name": "Serie zwart-witfoto's Testudo",
+    "identifier": "LIB.2019.0003"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://dlc.services/iiif-img/7/18/2d236e2f-7ead-4b99-a91d-2175e8138750/full/1024,768/0/default.jpg",
+      "thumbnail": "https://dlc.services/thumbs/7/18/2d236e2f-7ead-4b99-a91d-2175e8138750/full/full/0/default.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://dlc.services/iiif-img/7/18/c0ecbb1a-4555-49f9-9e0e-0399d65b27cf/full/1024,768/0/default.jpg",
+      "thumbnail": "https://dlc.services/thumbs/7/18/c0ecbb1a-4555-49f9-9e0e-0399d65b27cf/full/full/0/default.jpg",
+      "width": 1024,
+      "height": 768
+    }
+  ]
+}
