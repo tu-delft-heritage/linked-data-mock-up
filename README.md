@@ -42,144 +42,6 @@ Each manifest contains metadata in a dedicated metadata property, with an array 
           "Digitale computer"
         ]
       }
-    },
-    {
-      "label": {
-        "en": [
-          "Inventory number"
-        ],
-        "nl": [
-          "Inventarisnummer"
-        ]
-      },
-      "value": {
-        "nl": [
-          "2002.0575.EWI"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Dating"
-        ],
-        "nl": [
-          "Datering"
-        ]
-      },
-      "value": {
-        "nl": [
-          "1944 – 1952"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Maker"
-        ],
-        "nl": [
-          "Maker"
-        ]
-      },
-      "value": {
-        "nl": [
-          "TU Delft faculteit TNW  (maker)",
-          "van der Poel, Willem Louis  (ontwerper)"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Dimensions"
-        ],
-        "nl": [
-          "Afmetingen"
-        ]
-      },
-      "value": {
-        "nl": [
-          "400,0 mm (h) x 5.000,0 mm (b) x 720,0 mm (d)"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Material"
-        ],
-        "nl": [
-          "Materiaal"
-        ]
-      },
-      "value": {
-        "nl": [
-          "hout",
-          "metaal",
-          "rubber"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Description"
-        ],
-        "nl": [
-          "Beschrijving"
-        ]
-      },
-      "value": {
-        "nl": [
-          "De TESTUDO (Latijn: schildpad) is een geavanceerde mechanische rekenmachine. De TESTUDO is gebaseerd op de ARCO, een rekenmachine ontworpen als afstudeeropdracht door W. L. van der Poel (later hoogleraar bij de TU Delft). Tijdens de Tweede Wereldoorlog kwam de interesse voor wiskundige berekeningen in een stroomversnelling terecht, met name in Engeland en Amerika. Dit had te maken met de grote hoeveelheid gecodeerde berichten die ontcijferd moesten worden. De eerste 'echte' digitale computer, de Colossus (1943) was daar het gevolg van. Ook de Eniac (1946), die tot eind jaren '70 als de eerste computer gold, maakte gebruik van elektronenbuizen als voornaamste bestanddelen. \nDe TESTUDO, waar Van der Poel aan begon in 1947, bevat nog geen elektronische componenten en is gebaseerd op de relaistechniek die vanaf de jaren '30 bekend was uit de automatische telefonie. Omdat Van der Poel nauwelijks budget had om mee te werken, gebruikt hij 600 afgedankte relais, die hij via Leen van Kosten verkreeg. Deze moesten allemaal opnieuw worden opgespoeld, wat Van der Poel deed met een draaibank.\nDe TESTUDO is niet voor oorlogsdoeleinden ontworpen, maar als wetenschappelijke rekenmachine voor de vakgroep de Delftse hoogleraar A.C.S. Van Heel voor berekeningen aan optica. De TESTUDO bestaat uit vijf houten kasten. Programmeerpaneel: 1480 * 720 * 330, relaiseeheid: 1280 * 720 * 3300, Relaiseenheid: 720 * 660 * 410, relaiseenheid met lampen: 1280 * 720 * 300"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Provenance"
-        ],
-        "nl": [
-          "Herkomst"
-        ]
-      },
-      "value": {
-        "nl": [
-          "Van Heel, Abraham Cornelis Sebastiaan"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Documentation"
-        ],
-        "nl": [
-          "Documentatie"
-        ]
-      },
-      "value": {
-        "nl": [
-          "TH mededelingen, november 1957, jaargang 5 nr. 2, p.35"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Related object"
-        ],
-        "nl": [
-          "Gerelateerd object"
-        ]
-      },
-      "value": {
-        "nl": [
-          "Serie zwart-witfoto's Testudo  (LIB.2019.0003)"
-        ]
-      }
     }
   ],
 ```
@@ -223,11 +85,10 @@ https://termennetwerk.netwerkdigitaalerfgoed.nl/
 ### Leon van Wissen
 
 FAIR Photos
-https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.271
-https://doi.org/10.17026/SS/7VD3ME
 
-Amsterdam Diaries
-https://github.com/amsterdamtimemachine/amsterdam-diaries-data/tree/dev/rdf
+- [FAIR Photos – Transforming a Collection of Two Million Historical Press Photos into Five Star Data](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.271)
+- [FAIR Photos - CLARIAH FAIR Data Call 2023](https://doi.org/10.17026/SS/7VD3ME)
+- [Amsterdam Diaries](https://github.com/amsterdamtimemachine/amsterdam-diaries-data/tree/dev/rdf)
 
 ### Rijksmuseum
 
@@ -239,13 +100,15 @@ Duikboot Lipkens:
 
 ### Other
 
-https://www.lazaruscorporation.co.uk/blogs/arts-tech/posts/more-on-linked-open-data-and-schemadotorg
+- [More on Linked Open Data and Schema.org](https://www.lazaruscorporation.co.uk/blogs/arts-tech/posts/)more-on-linked-open-data-and-schemadotorg
+- [Evaluation of Schema.org for Aggregation of Cultural Heritage Metadata](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_15)
+- [Open-Data-Acquisition-Framework](https://github.com/nfreire/Open-Data-Acquisition-Framework/tree/master/opaf-casestudies/src/data/schemaorg)
 
 ### Notebooks and Vals
 
-University of Amsterdam: https://observablehq.com/d/1fcb94939fd2af51
-Het Nieuwe Instituut: https://observablehq.com/d/b97ef4cd4ab8c9c6
-Rijksmuseum proxy: https://www.val.town/x/sammeltassen/rijks/
+- [University of Amsterdam](https://observablehq.com/d/1fcb94939fd2af51)
+- [Het Nieuwe Instituut](https://observablehq.com/d/b97ef4cd4ab8c9c6)
+- [Rijksmuseum proxy](https://www.val.town/x/sammeltassen/rijks/)
 
 ## Packages and code examples
 
