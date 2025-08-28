@@ -1,0 +1,12 @@
+{
+    "@context": "https://schema.org",
+    "@id": "https://heritage.tudelft.nl/iiif/topics/material/wood/schema.json",
+    "@type": "Product",
+    "name": "Hout",
+    "sameAs": "http://vocab.getty.edu/aat/300012777",
+    "isRelatedTo": {
+        "@id": "https://heritage.tudelft.nl/iiif/manifests/f78a108e-f5dc-4165-a1d2-33b49f524597/schema.json",
+        "@type": "Product",
+        "name": "TESTUDO computer door W.L. van der Poel"
+    }
+}
