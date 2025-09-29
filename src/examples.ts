@@ -25,13 +25,13 @@ const schemaExample: WithContext<CreativeWork | Product> = {
     {
       "@type": "Organization",
       name: "TU Delft faculteit TNW",
-      sameAs: "https://www.wikidata.org/wiki/Q61661775",
+      sameAs: "http://www.wikidata.org/entity/Q61661775",
     },
     {
       id: "https://heritage.tudelft.nl/iiif/manifests/poel.json",
       "@type": "Person",
       name: "Willem Louis van der Poel",
-      sameAs: "https://www.wikidata.org/wiki/Q3189981",
+      sameAs: "http://www.wikidata.org/entity/Q3189981",
     },
   ],
   contributor: {
@@ -40,7 +40,7 @@ const schemaExample: WithContext<CreativeWork | Product> = {
     contributor: {
       "@type": "Person",
       name: "Van Heel, Abraham Cornelis Sebastiaan",
-      sameAs: "http://wikidata.org/wiki/Q82435684",
+      sameAs: "http://www.wikidata.org/entity/Q2317386",
     },
   },
   description:
@@ -53,17 +53,17 @@ const schemaExample: WithContext<CreativeWork | Product> = {
       "@id": "https://heritage.tudelft.nl/iiif/lod/products/hout.json",
       "@type": "Product",
       name: "Hout",
-      sameAs: "https://www.wikidata.org/wiki/Q287",
+      sameAs: "http://vocab.getty.edu/aat/300011914",
     },
     {
       "@type": "Product",
       name: "Metaal",
-      sameAs: "https://www.wikidata.org/wiki/Q11426",
+      sameAs: "http://vocab.getty.edu/aat/300010900",
     },
     {
       "@type": "Product",
       name: "Rubber",
-      sameAs: "https://www.wikidata.org/wiki/Q18113858",
+      sameAs: "http://vocab.getty.edu/aat/300012941",
     },
   ],
   // Simpel voorbeeld
